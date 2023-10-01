@@ -29,7 +29,7 @@ I am a Java programmer proficient in three languages.
 
 ## 📬 Contact Me
 
-- **LinkedIn:** [Jiquan Zhong](https://www.linkedin.com/in/jiquanzhong/](https://www.linkedin.com/in/jiquan-zhong/)
+- **LinkedIn:** [Jiquan Zhong](https://www.linkedin.com/in/jiquan-zhong/)
 - **Email:** zhongjiquan828@gmail.com
 
 ---
@@ -65,7 +65,7 @@ Je suis un programmeur Java compétent en trois langues.
 
 ## 📬 Me contacter
 
-- **LinkedIn:** [Jiquan Zhong](https://www.linkedin.com/in/jiquanzhong/](https://www.linkedin.com/in/jiquan-zhong/)
+- **LinkedIn:** [Jiquan Zhong](https://www.linkedin.com/in/jiquan-zhong/)
 - **Email:** zhongjiquan828@gmail.com
 
 ---
@@ -101,5 +101,5 @@ Je suis un programmeur Java compétent en trois langues.
 
 ## 📬 联系我
 
-- **LinkedIn:** [钟济全](https://www.linkedin.com/in/jiquanzhong/)
+- **LinkedIn:** [钟济全](https://www.linkedin.com/in/jiquan-zhong/)
 - **邮箱:** zhongjiquan828@gmail.com
